@@ -1,0 +1,23 @@
+{
+    "name": "pyh/service",
+    "description": "API Service to easy develop",
+    "homepage": "https://github.com/agung3wi/lumen-service",
+    "authors": [
+        {
+            "name": "Agung",
+            "email": "agungskripsi05@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phy\\Service\\": "src"
+        }
+    },
+    "require-dev": {
+    }
+}
