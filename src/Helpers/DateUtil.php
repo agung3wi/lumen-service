@@ -1,6 +1,6 @@
 <?php
 
-namespace Phylovely\ApiService;
+namespace Phylovely\ApiService\Helpers;
 
 class DateUtil  {
 
