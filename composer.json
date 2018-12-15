@@ -1,5 +1,5 @@
 {
-    "name": "phy/service",
+    "name": "phylovely/api-service",
     "description": "API Service to easy develop",
     "homepage": "https://github.com/agung3wi/lumen-service",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PhyLovely\\Core\\": "src"
+            "Phylovely\\ApiService\\": "src"
         }
     },
     "require-dev": {

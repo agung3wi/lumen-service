@@ -1,11 +1,11 @@
 <?php
 
-PhyLovely\Core\Helpers;
+namespace Phylovely\ApiService;
 
 class DateUtil  {
 
     public static function dateTimeNow(){
-		return date("YmdHis");
+        return date("YmdHis");
     }
     
 }

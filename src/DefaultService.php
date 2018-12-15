@@ -1,6 +1,6 @@
 <?php 
 
-namespace PhyLovely\Core;
+namespace Phylovely\ApiService;
 
 /**
  * @author Agung
